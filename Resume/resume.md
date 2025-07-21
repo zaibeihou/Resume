@@ -12,12 +12,8 @@
 	<tr>
 	</tr>
 	<tr>
-		<td>现住址：湖北武汉</td>
-		<td>教育背景：2023届 XX大学 本科 软件工程</td>
-	</tr>
-	<tr>
-		<td><a href="https://juejin.cn/user/4182956056773160/posts">博客主页</a></td>
-		<td><a href="https://github.com/stick-i">GitHub主页</a></td>
+		<td>年龄：24&ensp; &ensp;性别：男</td>
+		<td>籍贯：安徽阜阳</td>
 	</tr>
 </table>
 <hr/>
