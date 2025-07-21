@@ -1,36 +1,54 @@
 <table>
-	<tr style="height: 50px;">
 		<td style="font-size: 1.8em;"><strong>汪浩宇</strong></td>
 		<td style="font-size: 1.5em;"><strong>求职意向：嵌入式软件工程师</strong></td>
-		<td rowspan="5">
-			<img src="./image/sticki_avatar.jpg" height="140" alt="">
-		</td>
-	</tr>
-	<tr>
-		<td>电话：18324825871</td> 		<td>邮箱：whyzaibeihou@163.com</td>
-	</tr>
-	<tr>
-	</tr>
-	<tr>
+	 <tr>
 		<td>年龄：24&ensp; &ensp;性别：男</td>
 		<td>籍贯：安徽阜阳</td>
-	</tr>
+	 </tr>
+    <tr>
+		<td>电话：18324825871</td> 		<td>邮箱：whyzaibeihou@163.com</td>
+	 </tr>
 </table>
+
 <hr/>
 
-### ==😎专业技能==
+### 教育背景
+
+<h4 style="display: flex; justify-content: space-between;">
+    <span>
+        <span>2020.9~2024.6</span>
+        <span style="margin-left: 100px;">郑州大学</span>
+    </span>
+    <span>
+        <span>电子信息工程（本科）</span>
+        <span style="margin-left: 100px;">GPA：3.72</span>
+    </span>
+</h4>
+
+<h4 style="display: flex; justify-content: space-between;">
+    <span>
+        <span>2024.7~2027.6</span>
+        <span style="margin-left: 100px;">华中科技大学</span>
+    </span>
+    <span>
+        <span>电子信息（硕士）</span>
+        <span style="margin-left: 100px;">GPA：3.50</span>
+    </span>
+</h4>
+
+<hr/>
+
+### 专业技能
 
 - 熟悉 **Java** 、**Kotlin** 服务端开发，熟悉 **JVM** 基础知识，如内存模型、垃圾回收等，熟悉 **多线程** 用法
 - 熟悉 **Spring、SpringBoot、Mybatis-Plus** 等常用框架，熟悉 **SpringCloud** 常用组件
 - 熟悉 **MySQL** 数据库，熟悉 **SQL优化** 和 **索引结构** ，熟悉底层 B+树 的结构
 - 熟悉 **Redis** 缓存、分布式锁，熟悉 **ElasticSearch** 分词、搜索，熟练使用 **MQ** 处理异步场景
 - 具备 **分布式微服务** 项目的设计开发经验，有 **Jenkins自动化部署** 经验，有 **Arthas** 排查线上问题的经验
-- [稀土掘金](https://juejin.cn/user/4182956056773160/posts) 优秀创作者，[CSDN](https://blog.csdn.net/little_stick_i?type=blog) 万粉博主，个人公众号 程序员阿杆，**全网阅读量超 80W**
-- 本科期间有10余次省级及以上学科竞赛获奖经历
 
 <hr/>
 
-### ==🏢工作经历==
+### 实习经历
 
 <h4 style="display: flex;justify-content: space-between;">
 <span>一、公司名称 - 部门</span><span>Web后台研发</span><span>2023.04 - 至今</span>
